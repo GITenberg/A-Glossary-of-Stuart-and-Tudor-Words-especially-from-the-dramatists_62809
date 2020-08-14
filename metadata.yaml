@@ -1,0 +1,38 @@
+_repo: A-Glossary-of-Stuart-and-Tudor-Words-especially-from-the-dramatists_62809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skeat, Walter W. (Walter William)
+    alias: Skeat, Walter William
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '4590'
+    url: http://www.gutenberg.org/2009/agents/4590
+    wikipedia: https://en.wikipedia.org/wiki/Walter_William_Skeat
+  editor:
+    agent_name: Mayhew, A. L. (Anthony Lawson)
+    alias: Mayhew, Anthony Lawson
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '4591'
+    url: http://www.gutenberg.org/2009/agents/4591
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62809'
+  lccn: '14007721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Early modern, 1500-1700 -- Glossaries, vocabularies,
+  etc.'
+- !lcc 'PE'
+- !lcsh 'English language -- Obsolete words'
+- GITenberg
+title: 'A Glossary of Stuart and Tudor Words
+
+  especially from the dramatists'
+url: http://www.gutenberg.org/ebooks/62809
